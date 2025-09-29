@@ -10,7 +10,7 @@ pipeline {
         // }
         // stage('Checkout Source') {
         //     steps {
-        //          git 'https://github.com/tuananh281/cicd-pipeline-train-schedule-dockerdeploy.git'
+        //          git 'https://github.com/lekha2809/cicd-pipeline-train-schedule-dockerdeploy.git'
         //     }
         // }
 
@@ -138,3 +138,4 @@ pipeline {
 //                 }
 //             }
 //         }
+
